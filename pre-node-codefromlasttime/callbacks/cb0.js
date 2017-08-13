@@ -2,7 +2,7 @@ function devSide(err, result) {
 	// code this
 };
 
-function moduleSide(number1, number2, cb) {
+function adder(number1, number2, cb) {
 	var result = 0000;
 	var err = null;
 	if((typeof number1 == 'number') && (typeof number2 == 'number')) {
