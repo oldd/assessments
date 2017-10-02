@@ -22,4 +22,5 @@ anOjbect: object
 				newProperty: string to add as new property
 			return: undefined
 			behavior: adds a new property -> key=stringX, value=newProperty
+		deleteProperty: write me and my specs
 */
